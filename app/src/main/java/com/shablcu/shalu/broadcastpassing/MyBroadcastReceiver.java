@@ -1,4 +1,4 @@
-/*package com.shablcu.shalu.broadcastpassing;
+package com.shablcu.shalu.broadcastpassing;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -19,4 +19,3 @@ public class MyBroadcastReceiver extends BroadcastReceiver {
 
     }
 }
-*/

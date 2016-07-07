@@ -16,11 +16,11 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name=".MySecondBroadcast" >
+      <!--  <receiver android:name=".MySecondBroadcast" >
             <intent-filter>
                 <action android:name="MY_SPECIFIC_ACTION" />
             </intent-filter>
-        </receiver>
+        </receiver>-->
     </application>
 
 </manifest>
